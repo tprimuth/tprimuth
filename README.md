@@ -8,6 +8,6 @@
 <h4 align="center">I'm a visual and UX designer who dabbles in front end development.</h3>
 <p align="center">Check out my <a href="https://tprimuth.github.io" target="_blank">website</a> to view all my projects!</p>
 
-<p> ⚫️ <a href="" target="_blank">Instagram </p> 
-<p> ⚫️ <a href="" target="_blank">Youtube</p> 
-<p> ⚫️ <a href="" target="_blank">LinkedIn </p> 
+<p> ⚫️ <a href="https://www.instagram.com/taylor.primuth.designs/" target="_blank">Instagram </p> 
+<p> ⚫️ <a href="https://www.youtube.com/channel/UCOEWqZZwhHnwIUYQbqFx4ww" target="_blank">Youtube</p> 
+<p> ⚫️ <a href="https://www.linkedin.com/in/taylorprimuth/" target="_blank">LinkedIn </p> 
