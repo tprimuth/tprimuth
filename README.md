@@ -1,15 +1,13 @@
-# Taylor Primuth
+# Taylor Primuth!
 
-<!--
-**tprimuth/tprimuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img width="200px" src="img/profile.png"/>
+</div>
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">✨ Welcome to my github! ✨</h2>
+<h4 align="center">I'm a visual and UX designer who dabbles in front end development.</h3>
+<p align="center">Check out my <a href="https://tprimuth.github.io" target="_blank">website</a> to view all my projects!</p>
+
+<p> ⚫️ <a href="" target="_blank">Instagram </p> 
+<p> ⚫️ <a href="" target="_blank">Youtube</p> 
+<p> ⚫️ <a href="" target="_blank">LinkedIn </p> 
