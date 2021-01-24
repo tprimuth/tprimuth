@@ -1,7 +1,7 @@
 # Taylor Primuth!
 
 <div align="center">
-  <img width="200px" src="img/profile.png"/>
+  <img width="200px" src="img/memoji.png"/>
 </div>
 
 <h2 align="center">✨ Welcome to my github! ✨</h2>
